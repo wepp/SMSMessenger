@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+	   
+	<resources>
+	  <color name="button_focused_color_start">#7FA40E</color> 
+	  <color name="button_focused_color_end">#79C83F</color> 
+	  <color name="button_normal_color_start">#1f71df</color> 
+	  <color name="button_normal_color_end">#619be9</color> 
+	  <color name="button_pressed_color_start">#00BFFF</color> 
+	  <color name="button_pressed_color_end">#00BFFF</color> 
+	  <color name="White">#FFFFFF</color>
+	  <color name="light_blue">#4682B4</color> 
+	  <color name="textColor">#FFF</color>
+	<color name="textFieldColor">#000</color>
+	<color name="textShadow">#FFF</color>
+	<color name="listViewBg">#DADFEE</color>
+
+	<color name="barDarkColor">#CECECE</color>
+	<color name="barMeduimColor">#DFDEE0</color>
+	<color name="barLightColor">#F2F2F2</color>
+	
+	<color name="background_default">#F5FFFA</color>
+    <color name="background_selected">#AFEEEE</color> 
+	</resources>

@@ -8,7 +8,8 @@
     <string name="title_activity_dialog">DialogActivity</string>
     <string name="projectName">SmsCompress</string>
     <string name="title_activity_about">AboutActivity</string>
-    <string name="about">
+    <string name="about"> 
+   Developed by Q-Bee;\n
          Version 1.0.</string>
     <string name="send">Send</string>
     <string name="message">Message</string>

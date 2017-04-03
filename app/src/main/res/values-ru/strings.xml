@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="about">Разработано Q-Bee; Версия 1.0.</string>
+    <string name="action_new_message">Новое сообщение</string>
+    <string name="action_settings">Настройки</string>
+    <string name="choose">Выбрать</string>
+    <string name="message">Сообщение</string>
+    <string name="number">Номер</string>
+    <string name="send">Отправить</string>
+    <string name="smssent">Сообщение отправлено</string>
+    <string name="title_about">О приложении</string>
+    
+    <string name="exit">Нажмите еще раз, что бы выйти!</string>
+    <string name="notConversation">Не диалог</string>
+    <string name="sorry">Извините</string>
+    <string name="conversationsfound">диалогов не найдено</string>
+    <string name="SMSsent">Сообщение отправлено</string>
+    <string name="generic_failure">Ошибка! Сообщение не отправлено!</string>
+    <string name="SMS_delivered">Сообщение доставлено</string>
+    <string name="SMS_not_delivered">Ошибка! Сообщение не доставлено!</string>
+    <string name="enter_message">Введите сообщение</string>
+    <string name="enter_both">Введите номер и сообщение</string>
+
+</resources>
